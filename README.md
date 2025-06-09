@@ -4,7 +4,7 @@ This is a simple, minimalistic website for a fictional local coffee shop called 
 
 ## 🔗 Live Demo
 
-Check out the live site here: [https://your-username.github.io/brew-bliss-site/](https://your-username.github.io/brew-bliss-site/)
+Check out the live site here: [https://darkali.github.io/brew-bliss-site/](https://darkali.github.io/brew-bliss-site/)
 
 ## 🧰 Built With
 
