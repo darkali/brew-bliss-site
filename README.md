@@ -34,3 +34,11 @@ To run this locally:
    ```bash
    git clone https://github.com/darkali/brew-bliss-site.git
    cd brew-bliss-site
+
+2. Open index.html in your browser.
+
+## 📸 Screenshots
+I'll add later, as this is still a WIP
+
+## 📜 License
+This project is for demo and educational purposes only.
