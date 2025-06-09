@@ -27,7 +27,8 @@ nav a:hover {
 .hero {
   text-align: center;
   padding: 4rem 2rem;
-  background: #f4f4f4;
+  background-image: url(../img/coffeeHero.jpg);
+  background-color: #f4f4f4;
 }
 
 .hours {
