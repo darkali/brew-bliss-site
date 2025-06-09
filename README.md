@@ -32,5 +32,5 @@ To run this locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/brew-bliss-site.git
+   git clone https://github.com/darkali/brew-bliss-site.git
    cd brew-bliss-site
